@@ -1,9 +1,0 @@
-airflow:
-username: admin
-password: nitish
-
-#Postgres Creds
-Username: etl_user
-passowrd: etl_password
-
-password: nitish
