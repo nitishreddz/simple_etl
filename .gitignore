@@ -1,0 +1,15 @@
+airflow:
+username: admin
+password: nitish
+
+#Postgres Creds
+Username: etl_user
+passowrd: etl_password
+
+password: nitish
+
+.venv/
+logs/
+abseil-cpp
+
+dags/_pycache_/
