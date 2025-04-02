@@ -3,4 +3,4 @@ logs/
 abseil-cpp
 
 dags/_pycache_/
-creds
+creds.txt
